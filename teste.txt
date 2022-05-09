@@ -1,0 +1,9 @@
+
+    Directory: C:\Git\ola-mundo
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          09/05/2022    16:53              0 chibubbles.txt
+-a---          09/05/2022    16:53             11 README.md
+-a---          09/05/2022    16:58              0 teste.txt
+
